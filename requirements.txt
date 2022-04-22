@@ -106,7 +106,7 @@ PyJWT==1.7.0
 pylint==2.2.2
 pyOpenSSL==19.0.0
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.16.0
 pyserial==3.4
 PySocks==1.7.1
